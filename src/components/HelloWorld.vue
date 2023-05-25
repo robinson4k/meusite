@@ -8,7 +8,7 @@ import { faLinkedin, faGithub, faInstagram } from '@fortawesome/free-brands-svg-
 
 
 
-<nav class="flex items-center justify-between flex-wrap bg-cyan-700 py-4 px-80 mb-16">
+<!-- <nav class="flex items-center justify-between flex-wrap bg-cyan-700 py-4 px-80 mb-16">
     <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div class="text-sm lg:flex-grow">
             <a href="#" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
@@ -19,9 +19,9 @@ import { faLinkedin, faGithub, faInstagram } from '@fortawesome/free-brands-svg-
             </a>
         </div>
     </div>
-</nav>
+</nav> -->
 
-<div class="text-center text-[#F8F8F2]">
+<div class="text-center text-[#F8F8F2] mt-20">
     <img src="/images/eu-robinson.png" alt="Robinson Silva avatar" class="mx-auto rounded-md mb-6" width="160px" height="160px">
     <h1 class="text-6xl mb-4">Robinson Silva</h1>
 
