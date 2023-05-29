@@ -25,8 +25,6 @@ import { faLinkedin, faGithub, faInstagram } from '@fortawesome/free-brands-svg-
     <img src="/images/eu-robinson.png" alt="Robinson Silva avatar" class="mx-auto rounded-md mb-6" width="160px" height="160px">
     <h1 class="text-6xl mb-4">Robinson Silva</h1>
 
-    <h2 class="text-xl mb-2">Analista de sistemas, desenvolvedor, líder de equipe e apaixonado por resolver problemas</h2>
-
     <p class="mb-16"><a href="mailto:robinson4k@gmail.com">robinson4k@gmail.com</a></p>
 
     <div class="max-w-[48ch] mx-auto flex justify-between text-lg">
